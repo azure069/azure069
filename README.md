@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alish Neupane!
+# 👋 Hi, I'm azure069!
 
 🎨 **Web Designer | Web App Developer | Game Developer**  
 💡 Passionate about creating **modern websites, interactive web apps, and immersive games**  
