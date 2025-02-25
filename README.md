@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 **Tech Stack**
-🔹 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-🔹 **Backend:** Node.js, PHP, MySQL, MongoDB. PostGreSQL, Redis, SQL Server 2019/2022 
+🔹 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+🔹 **Backend:** Node.js, PHP, MySQL, MongoDB. PostGreSQL, Redis, SQL Server 2019/2022, Java, Python   
 🔹 **Game Development:** C#, Unity, JavaScript, Lua  
 🔹 **Other Tools:** Git, Figma, WebGL, Three.js
 
